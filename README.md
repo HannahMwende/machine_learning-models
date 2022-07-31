@@ -1,6 +1,8 @@
 # SyriaTel Customer Churn project 
 
 ## Overview
+![image](https://user-images.githubusercontent.com/98167904/182045567-01fe330c-d50d-4053-bf41-d593d1bd94f6.png)
+
 * In this project, we shall be modelling a classification problem.<br>
 * Classification algorithms try to find the decision boundary using the predictors, which divides the target into different  classes which we shall see very soon.
 
