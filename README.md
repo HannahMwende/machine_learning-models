@@ -15,7 +15,6 @@
 The dataset used in this analysis contains information of customers of SyriaTel Company and it is also found in Kaggle.
 
 
-
 ## Methods
 For this project,we will build various classifiers to predict whether a customer will churn or not.
 
